@@ -1,0 +1,2 @@
+Ir a C:\Windows\System32\drivers\etc
+Eliminar hosts y sustituirlo por hosts original, renombrar este, necesitas permisos de administrador, si no lo ves esta oculto.
